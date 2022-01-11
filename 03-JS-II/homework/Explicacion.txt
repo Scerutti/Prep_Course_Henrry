@@ -1,0 +1,15 @@
+El bucle FOR sirve para hacer varias tareas, por ejemplo:
+Vamos a imaginar que tenemos una cómoda con varios cajones, y tenes que encontrar un par de medias
+y no sabes en que cajon se encuentra. Entonces que hacrías? Exacto abrirías cada cajón hasta encontrar
+el par de medias que querías.
+Bueno el bucle FOR en la programación haría esa tarea de buscar cajón por cajón hasta que encuentre
+lo que buscas.
+
+
+Algo que también solemos usar en programación son los Operadores Lógicos.
+Que son? son elementos que nos sirven para comparar entre varias cosas. Te doy unos ejemplos para que
+entiendas:
+Si yo te digo que 10 es igual a 5+5 Y que 15 menos 5 es 10. Para vos es verdad o no?
+Bien exacto, es verdad. Bueno ese Y en el que hice enfasis es un operador logico, vamos con otro.
+
+Si yo te digo que 
